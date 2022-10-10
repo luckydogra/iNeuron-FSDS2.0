@@ -1,4 +1,4 @@
-**#Topics Covered
+#Topics Covered
 
 Python Introduction:
   String Formatting in Print
